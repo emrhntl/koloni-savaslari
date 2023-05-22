@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "taktik.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "taktika.h": "c"
+    }
+}
